@@ -2,7 +2,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: cursive;
+    font-family: 'Courier New', Courier, monospace;
     line-height: 1.5;
     min-height: 584px;
     background: #060a31;
